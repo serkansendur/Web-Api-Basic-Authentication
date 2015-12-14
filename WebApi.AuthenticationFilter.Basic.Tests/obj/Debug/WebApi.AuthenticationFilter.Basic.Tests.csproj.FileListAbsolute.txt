@@ -1,0 +1,40 @@
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll.config
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.pdb
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.abstractions.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.pdb
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.abstractions.xml
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.csprojResolveAssemblyReference.cache
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll
+D:\Personal Projects\WebApi.AuthenticationFilter.Basic-master\src\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.pdb
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll.config
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.Tests.pdb
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\Newtonsoft.Json.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Net.Http.Formatting.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.WebHost.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.abstractions.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\WebApi.AuthenticationFilter.Basic.pdb
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\Newtonsoft.Json.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Net.Http.Formatting.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\System.Web.Http.WebHost.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\bin\Debug\xunit.abstractions.xml
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.csprojResolveAssemblyReference.cache
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.dll
+D:\Personal Git Projects\Web Api Basic Auth\Web-Api-Basic-Authentication\WebApi.AuthenticationFilter.Basic.Tests\obj\Debug\WebApi.AuthenticationFilter.Basic.Tests.pdb
